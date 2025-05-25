@@ -40,7 +40,7 @@ Lokalno testiranje aplikacije
 
 2. npm run start
 
-Vercel link aplikacije:
+Vercel link aplikacije: https://nextflix-six-azure.vercel.app/
 
 ## Planirane nadogradnje
 
